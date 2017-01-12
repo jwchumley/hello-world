@@ -1,4 +1,4 @@
 # hello-world
-repository for github training.
+Repository for github training.
 It was a dark and stormy night.
-I'm not wearking any socks.
+I'm not wearing any socks.
